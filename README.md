@@ -1,5 +1,8 @@
-aliflazuardi's config for various application or tools
+aliflazuardi's config files for various application or tools
 
 Directory:
-- NeoVim
-- Tmux
+.
+├── tmux
+└── vim
+├── ideavim
+└── nvim
