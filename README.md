@@ -1,8 +1,8 @@
 aliflazuardi's config files for various application or tools
 
-Directory:
+Directory
 .
 ├── tmux
 └── vim
-├── ideavim
-└── nvim
+    ├── ideavim
+    └── nvim
