@@ -5,6 +5,6 @@ Directory
 .
 ├── tmux
 └── vim
-    ├── ideavim
+    ├── ideaVim
     └── nvim
 ```
